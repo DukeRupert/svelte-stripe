@@ -52,5 +52,10 @@
       "main",
       "next"
     ]
+  },
+  "exports": {
+    ".": {
+      "svelte": "./dist/index.js"
+    }
   }
 }
